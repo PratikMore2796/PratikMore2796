@@ -75,11 +75,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PratikMore2796&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" /></div>  
-
+<table><tr><td valign="top" width="33%">
+ <img src="https://github-readme-stats.vercel.app/api?username=PratikMore2796&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" />
+  </td>
+  <td valign="top" width="33%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikMore2796&langs_count=3&exclude_repo=RentalApplication,Website,ReactJsApp,&theme=merko" align="center" />
+  </td></tr></table>  
 <br/>  
-
-  
 
 <br/>  
 
