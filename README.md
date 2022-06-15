@@ -94,4 +94,8 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><a href="https://pratikmore.com" target="_blank">Website/Contact</a></div>
+<br/>
+<br/>
+
+<div align="center"><a href="https://app.daily.dev/morepratik1616"><img src="https://api.daily.dev/devcards/8eddc56b62b44f1a8d274eee1f745a9b.png?r=fc4" width="400" alt="Pratik More's Dev Card"/></a></div>
