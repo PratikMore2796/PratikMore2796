@@ -75,23 +75,41 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="33%">
- <img src="https://github-readme-stats.vercel.app/api?username=PratikMore2796&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" />
+<table><tr><td valign="top" width="33%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=PratikMore2796&show_icons=true&count_private=true&hide_border=true&theme=merko" />
   </td>
   <td valign="top" width="33%">
-    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@pratikmore2796" frameborder="0"></iframe>
-  </td></tr></table>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PratikMore2796&show_icons=true&locale=en&layout=compact&exclude_repo=repo2,repo6,repo7,repo10"/>
+  </td>
+  <td valign="top" width="33%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratikmore2796&repo=github-readme-stats" />
+  </td>
+  </tr></table>  
 <br/>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=PratikMore2796&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=PratikMore2796&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
+## My Repos
+
+<br/>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=Restaurant-Management-System&show_owner=true)](https://github.com/pratikmore2796/Restaurant-Management-System" align="Center"/></div></br>
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=chatApp&show_owner=true)](https://github.com/pratikmore2796/chatApp" align="Center"/></div></br>
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=laravel-vue-spa-challenge&show_owner=true)](https://github.com/pratikmore2796/laravel-vue-spa-challenge" align="Center"/></div></br>
+  
+  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=MoviesMaza&show_owner=true)](https://github.com/pratikmore2796/MoviesMaza" align="Center"/></div></br>
+    
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=ShopifyChallange&show_owner=true)](https://github.com/pratikmore2796/ShopifyChallange" align="Center"/></br>
+</div>
 
 <br />
 
