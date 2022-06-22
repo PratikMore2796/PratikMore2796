@@ -82,7 +82,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PratikMore2796&show_icons=true&locale=en&layout=compact&exclude_repo=repo2,repo6,repo7,repo10"/>
   </td>
   <td valign="top" width="33%">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratikmore2796&repo=github-readme-stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=PratikMore2796" />
   </td>
   </tr></table>  
 <br/>  
