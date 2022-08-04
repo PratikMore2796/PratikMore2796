@@ -93,7 +93,7 @@
 
 <br/>  
 
-## My Repos
+## Projects
 
 <br/>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=Restaurant-Management-System&show_owner=true)](https://github.com/pratikmore2796/Restaurant-Management-System" align="Center"/></div></br>
