@@ -96,7 +96,7 @@
 ## Projects
 
 <br/>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=Restaurant-Management-System&show_owner=true)](https://github.com/pratikmore2796/Restaurant-Management-System" align="Center"/></div></br>
+<a href="https://github.com/PratikMore2796/MoviesMaza"><div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=Restaurant-Management-System&show_owner=true)](https://github.com/pratikmore2796/Restaurant-Management-System" align="Center"/></a></div></br>
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=chatApp&show_owner=true)](https://github.com/pratikmore2796/chatApp" align="Center"/></div></br>
 
