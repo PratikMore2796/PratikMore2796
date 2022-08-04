@@ -96,23 +96,21 @@
 ## Projects
 
 <br/>
-<a href="https://github.com/PratikMore2796/MoviesMaza"><div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=Restaurant-Management-System&show_owner=true)](https://github.com/pratikmore2796/Restaurant-Management-System" align="Center"/></a></div></br>
+<a href="https://github.com/PratikMore2796/Restaurant-Management-System"><div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=Restaurant-Management-System&show_owner=true)](https://github.com/pratikmore2796/Restaurant-Management-System" align="Center"/></a></div></br>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=chatApp&show_owner=true)](https://github.com/pratikmore2796/chatApp" align="Center"/></div></br>
+<a href="https://github.com/PratikMore2796/chatApp"><div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=chatApp&show_owner=true)](https://github.com/pratikmore2796/chatApp" align="Center"/></div></a></br>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=laravel-vue-spa-challenge&show_owner=true)](https://github.com/pratikmore2796/laravel-vue-spa-challenge" align="Center"/></div></br>
+<a href="https://github.com/PratikMore2796/laravel-vue-spa-challenge"><div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=laravel-vue-spa-challenge&show_owner=true)](https://github.com/pratikmore2796/laravel-vue-spa-challenge" align="Center"/></div></a></br>
   
   
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=MoviesMaza&show_owner=true)](https://github.com/pratikmore2796/MoviesMaza" align="Center"/></div></br>
+<a href="https://github.com/PratikMore2796/MoviesMaza"><div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=MoviesMaza&show_owner=true)](https://github.com/pratikmore2796/MoviesMaza" align="Center"/></div></a></br>
     
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=ShopifyChallange&show_owner=true)](https://github.com/pratikmore2796/ShopifyChallange" align="Center"/></br>
+<a href="https://github.com/PratikMore2796/ShopifyChallange"><div align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikMore2796&repo=ShopifyChallange&show_owner=true)](https://github.com/pratikmore2796/ShopifyChallange" align="Center"/></a></br>
 </div>
 
 <br />
 
 ----
-<div align="center"><a href="https://pratikmore.com" target="_blank">Website/Contact</a></div>
+<div align="center"><a href="https://pratikmore.com" target="_blank">Website/Contact/Portfolio</a></div>
 <br/>
 <br/>
-
-<div align="center"><a href="https://app.daily.dev/morepratik1616"><img src="https://api.daily.dev/devcards/8eddc56b62b44f1a8d274eee1f745a9b.png?r=fc4" width="400" alt="Pratik More's Dev Card"/></a></div>
